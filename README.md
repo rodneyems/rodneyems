@@ -1,4 +1,4 @@
-## Sou o Rodney, aspirante a desenvolvedor e amante de tecnologias!
+## Sou o Rodney, aspirante a desenvolvedor e amante de tecnologia
 <div align="center">
   <a href="https://github.com/rodneyems">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodneyems&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
