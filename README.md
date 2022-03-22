@@ -22,4 +22,3 @@
   <a href = "mailto:rodney.martins@live.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=outlook&logoColor=white"/>
   <a href="https://www.linkedin.com/in/rodney-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
